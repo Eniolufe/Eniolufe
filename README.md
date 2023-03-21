@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eniolufe
 - 👀 I’m interested in ways and method to simplify and make my journey easy while i learn javascript and react.
-- 🌱 I’m currently a front end engineer at Belrald 
+- 🌱 I’m currently a front end engineer 
 
 <!---
 Eniolufe/Eniolufe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
