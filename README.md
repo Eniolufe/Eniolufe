@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eniolufe
-- 👀 I’m interested in ways and method to simplify and make my journey easy while i learn javascript and react.
+- 👀 I build web application using react.js 
 - 🌱 I’m currently a front end engineer 
 
 <!---
